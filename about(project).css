@@ -1,28 +1,29 @@
 body {
-color: rgb(0, 0, 0);
-font-family: arial;
-margin: 0;
+  background-color: rgb(103, 71, 37);
+  color: rgb(245, 244, 244);
+  font-family: arial;
+  margin: 0;
 }
 
 div {
-min-height: 100vh;
-width: 100vw;
+  width: 120vw;
 }
-
-h1, h2 {
-text-align: center;
-}  
 
 h1 {
-font-size: 2.5em;
+  text-align: center;
 }
 h2 {
-font-size: 1.7em;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+h2 {
+  font-size: 1.7em;
 }
 
 p {
-    width: 40%;
-    margin: 0 10vw 10vh 10vw;
-    font-size: 1.3em;
-  }
-  
+  text-align: center;
+  font-size: 1.3em;
+}
